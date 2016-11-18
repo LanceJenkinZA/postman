@@ -557,7 +557,7 @@
 		{
 			"id": "77773e80-62fc-76e9-c8e2-ecc9af2b8e50",
 			"headers": "X-AUTH-TOKEN: {{auth_token}}\n",
-			"url": "{{url}}/beneficiaries/create?bank_account_holder_name=Mister Fitz&beneficiary_country=GB&bank_country=GB&currency=GBP&account_number=12344321&routing_code_type_1=sort_code&routing_code_value_1=112233&beneficiary_entity_type=individual&beneficiary_first_name=Jeff&beneficiary_last_name=Fitz&beneficiary_city=Jeff City&beneficiary_postcode=EC1 1XY&bank_account_type=checking",
+			"url": "{{url}}/beneficiaries/create?name=Employee Funds&bank_account_holder_name=Mister Fitz&beneficiary_country=GB&bank_country=GB&currency=GBP&account_number=12344321&routing_code_type_1=sort_code&routing_code_value_1=112233&beneficiary_entity_type=individual&beneficiary_first_name=Jeff&beneficiary_last_name=Fitz&beneficiary_city=Jeff City&beneficiary_postcode=EC1 1XY&bank_account_type=checking",
 			"preRequestScript": "",
 			"pathVariables": {},
 			"method": "POST",
